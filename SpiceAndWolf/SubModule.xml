@@ -11,7 +11,7 @@
          <DependedModule Id="SandBoxCore"/>
          <DependedModule Id="Sandbox"/>
          <DependedModule Id="CustomBattle"/>
-         <DependedModule Id="StoryMode" /> <!--这个也需要吗？我觉得不需要-->
+         <DependedModule Id="StoryMode" /> <!--这个也需要吗？我觉得不需要--先留着吧>
 	</DependedModules>
 	<SubModules>
 		<SubModule>
